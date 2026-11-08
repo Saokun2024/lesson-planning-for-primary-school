@@ -1,0 +1,52 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-khmer: 'Kantumruy Pro', 'Battambang', system-ui, sans-serif;
+    --font-khmer-head: 'Koulen', 'Kantumruy Pro', system-ui, sans-serif;
+  }
+
+  body {
+    font-family: 'Kantumruy Pro', 'Plus Jakarta Sans', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+.font-khmer {
+  font-family: 'Kantumruy Pro', 'Battambang', system-ui, sans-serif;
+}
+
+.font-khmer-heading {
+  font-family: 'Koulen', 'Kantumruy Pro', system-ui, sans-serif;
+}
+
+.font-battambang {
+  font-family: 'Battambang', system-ui, sans-serif;
+}
+
+/* Print styling for official MoEYS standard lesson plans */
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+    font-size: 11pt !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .print-container {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+  @page {
+    size: A4 portrait;
+    margin: 1.5cm 1.5cm 1.5cm 1.5cm;
+  }
+}

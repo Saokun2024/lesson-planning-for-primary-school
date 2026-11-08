@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#1e40af"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fcd34d"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="bookGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <!-- Background with safe zone -->
+  <rect width="512" height="512" rx="110" fill="url(#bgGrad)"/>
+  
+  <!-- Outer Cambodian ornamental ring -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#3b82f6" stroke-width="4" stroke-dasharray="8 8" opacity="0.4"/>
+  
+  <!-- Open Book Symbol (MoEYS education symbol) -->
+  <g transform="translate(256, 275)">
+    <!-- Book pages -->
+    <path d="M-140,-50 C-70,-80 -20,-60 0,-40 C20,-60 70,-80 140,-50 L140,80 C70,50 20,70 0,90 C-20,70 -70,50 -140,80 Z" fill="url(#bookGrad)" filter="drop-shadow(0 8px 16px rgba(0,0,0,0.3))"/>
+    <!-- Center spine -->
+    <path d="M0,-40 L0,90" stroke="#94a3b8" stroke-width="4"/>
+    <!-- Page text lines hint -->
+    <path d="M-115,-20 L-25,-10 M-115,10 L-25,20 M-115,40 L-45,45" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round"/>
+    <path d="M25,-10 L115,-20 M25,20 L115,10 M45,45 L115,40" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Golden Quill / Torch & Lotus top -->
+  <g transform="translate(256, 170)">
+    <!-- Central lotus leaf / quill tip -->
+    <path d="M0,-65 C25,-30 35,0 0,35 C-35,0 -25,-30 0,-65 Z" fill="url(#goldGrad)"/>
+    <!-- Left petal -->
+    <path d="M-5,-10 C-35,-25 -55,-5 -35,25 C-15,30 -5,15 -5,-10 Z" fill="url(#goldGrad)" opacity="0.9"/>
+    <!-- Right petal -->
+    <path d="M5,-10 C35,-25 55,-5 35,25 C15,30 5,15 5,-10 Z" fill="url(#goldGrad)" opacity="0.9"/>
+    <!-- Central sun star -->
+    <circle cx="0" cy="-75" r="7" fill="#fef08a"/>
+  </g>
+</svg>

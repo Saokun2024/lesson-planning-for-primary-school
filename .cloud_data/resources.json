@@ -1,0 +1,32 @@
+[
+  {
+    "id": "res-01",
+    "titleKm": "បណ្តុំកិច្ចតែងការគំរូ ភាសាខ្មែរ ថ្នាក់ទី១ ពេញមួយឆមាសទី១ (MoEYS)",
+    "titleEn": "Grade 1 Khmer Literacy Lesson Plan Collection - Full Semester 1",
+    "descriptionKm": "រួមបញ្ចូលកិច្ចតែងការ ៥ ជំហាន ចំនួន ៣០ មេរៀន ស្របតាមសៀវភៅគោលក្រសួងអប់រំ យុវជន និងកីឡា ឆ្នាំសិក្សាថ្មី។",
+    "descriptionEn": "Comprehensive 30-lesson curriculum-aligned bundle for early Khmer phonetics, vowels, and handwriting.",
+    "authorName": "អ្នកគ្រូ ម៉ែន សុផានី",
+    "schoolName": "សាលាបឋមសិក្សា ព្រះនរោត្តម (ភ្នំពេញ)",
+    "grade": "grade1",
+    "subject": "khmer",
+    "resourceType": "lesson_plan",
+    "likesCount": 142,
+    "downloadsCount": 384,
+    "createdAt": "2026-11-01"
+  },
+  {
+    "id": "res-02",
+    "titleKm": "សន្លឹកកិច្ចការលំហាត់គណិតវិទ្យា ថ្នាក់ទី៣៖ ការបូកដកលេខ ៤ខ្ទង់ (Printable Worksheet)",
+    "titleEn": "Grade 3 Math Applied Worksheets: 4-Digit Addition and Subtraction",
+    "descriptionKm": "សន្លឹកកិច្ចការរៀបចំជាទម្រង់ A4 ស្រួលព្រីន មានរូបភាពគំនូរខ្មែរ និងលំហាត់ចំណោទជាក់ស្តែង ២០ លំហាត់។",
+    "descriptionEn": "Printable A4 math worksheets tailored for Cambodian students with applied local market commerce problems.",
+    "authorName": "លោកគ្រូ ចាន់ ណារិន",
+    "schoolName": "សាលាបឋមសិក្សា ហ៊ុន សែន កំពង់ចាម",
+    "grade": "grade3",
+    "subject": "math",
+    "resourceType": "worksheet",
+    "likesCount": 96,
+    "downloadsCount": 247,
+    "createdAt": "2026-11-03"
+  }
+]

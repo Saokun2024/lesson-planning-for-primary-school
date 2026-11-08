@@ -1,0 +1,6 @@
+{
+  "name": "KruPlano - Cambodia Primary Lesson Planner",
+  "description": "Bilingual Khmer & English MoEYS curriculum-aligned lesson planning platform for Cambodia primary schools with offline PWA sync, formal PDF printing, administrator reviews, and teacher collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

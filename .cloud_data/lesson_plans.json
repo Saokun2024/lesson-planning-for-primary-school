@@ -1,0 +1,121 @@
+[
+  {
+    "id": "lp-001",
+    "schoolNameKm": "សាលាបឋមសិក្សា វត្តបូព៌",
+    "schoolNameEn": "Wat Bo Primary School",
+    "provinceKm": "ខេត្តសៀមរាប",
+    "provinceEn": "Siem Reap Province",
+    "teacherNameKm": "អ្នកគ្រូ កែវ ស្រីមុំ",
+    "teacherNameEn": "Mrs. Keo Sreymom",
+    "grade": "grade2",
+    "subject": "khmer",
+    "chapterKm": "ជំពូកទី៣៖ ការអាន និងសរសេរពាក្យផ្សំ",
+    "chapterEn": "Chapter 3: Reading and Writing Compound Words",
+    "lessonTitleKm": "មេរៀនទី១៤៖ ស្រៈ ឰ ឱ ឳ",
+    "lessonTitleEn": "Lesson 14: Inherent Vowels ឰ ឱ ឳ",
+    "subTopicKm": "ការប្រកបព្យញ្ជនៈពួក (អ) ជាមួយស្រៈនិស្ស័យ",
+    "subTopicEn": "Spelling first-series consonants with dependent vowels",
+    "date": "2026-11-10",
+    "durationMinutes": 45,
+    "totalStudents": 36,
+    "femaleStudents": 19,
+    "objectives": {
+      "knowledgeKm": "សិស្សប្រាប់បានច្បាស់ពីទម្រង់ និងសូរនៃស្រៈ ឰ ឱ ឳ តាមរយៈការសង្កេតបណ្ណអក្សរ។",
+      "knowledgeEn": "Students can identify and pronounce the shapes and sounds of vowels ឰ ឱ ឳ through flashcards.",
+      "skillKm": "សិស្សផ្សំ និងអានពាក្យ ព្រមទាំងសរសេរស្រៈទាំងបីនេះលើក្តារឆ្នួនបានត្រឹមត្រូវតាមលំដាប់លំដោយ។",
+      "skillEn": "Students can blend, read, and neatly write these three vowels on slates in proper stroke order.",
+      "attitudeKm": "បណ្តុះស្មារតីសិស្សឱ្យចូលចិត្តអាន និងថែរក្សាសៀវភៅភាសាខ្មែរឱ្យមានរបៀបរៀបរយ។",
+      "attitudeEn": "Cultivate an appreciation for reading and pride in maintaining neat Khmer exercise books."
+    },
+    "teachingAidsKm": "សៀវភៅសិក្សាគោលភាសាខ្មែរថ្នាក់ទី២ ទំព័រ ២៨, បណ្ណព្យញ្ជនៈ និងស្រៈចល័ត, ក្តារឆ្នួន, ផ្ទាំងរូបភាព។",
+    "teachingAidsEn": "Grade 2 MoEYS Khmer textbook page 28, moveable alphabet cards, student slates, picture charts.",
+    "blackboardNotesKm": "កាលបរិច្ឆេទ | ភាសាខ្មែរ៖ ស្រៈ ឰ ឱ ឳ | ពាក្យគន្លឹះ៖ កែវភ្នែក, ឱសថ, កោសិការ",
+    "blackboardNotesEn": "Date | Khmer: Vowels ឰ ឱ ឳ | Key Words: Eye, Medicine, Cell",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "stepNameKm": "ជំហានទី១៖ រដ្ឋបាលថ្នាក់ (៣-៥ នាទី)",
+        "stepNameEn": "Step 1: Class Administration (3-5 min)",
+        "durationMinutes": 4,
+        "teacherActivityKm": "- ពិនិត្យវត្តមាន សណ្តាប់ធ្នាប់ អនាម័យសម្លៀកបំពាក់ និងក្រចកដៃសិស្ស\n- ណែនាំសិស្សច្រៀងចម្រៀង \"ផ្កាឈូកខ្មែរ\" មួយបទដើម្បីបង្កបរិយាកាសរីករាយ។",
+        "teacherActivityEn": "- Check student attendance, general cleanliness, uniforms, and neatness.\n- Lead a quick energizer song 'Khmer Lotus' to focus student attention.",
+        "studentActivityKm": "- ប្រធានថ្នាក់រាយការណ៍ចំនួនសិស្សវត្តមាន និងអវត្តមាន\n- សិស្សទាំងអស់ចូលរួមច្រៀង និងត្រៀមក្តារឆ្នួន។",
+        "studentActivityEn": "- Class monitor reports attendance.\n- All students sing and prepare their slates and chalk on desks.",
+        "keyContentKm": "វត្តមានពេញលេញ អនាម័យស្អាតបាត",
+        "keyContentEn": "Attendance confirmed, clean learning environment"
+      },
+      {
+        "stepNumber": 2,
+        "stepNameKm": "ជំហានទី២៖ រំលឹកមេរៀនចាស់ (៥-៧ នាទី)",
+        "stepNameEn": "Step 2: Review Previous Lesson (5-7 min)",
+        "durationMinutes": 6,
+        "teacherActivityKm": "- ហៅសិស្ស ២-៣ នាក់ឡើងអានពាក្យផ្សំស្រៈ \"អ៊ែ អ៊ៅ\" នៅលើក្តារខៀន\n- ពិនិត្យកិច្ចការផ្ទះក្នុងសៀវភៅសរសេររបស់សិស្ស។",
+        "teacherActivityEn": "- Call 2-3 students to read compound words with vowels 'អ៊ែ អ៊ៅ' on the blackboard.\n- Check homework in student notebooks and give positive praise.",
+        "studentActivityKm": "- សិស្សស្ម័គ្រចិត្តឡើងអានពាក្យដោយសំឡេងឮច្បាស់\n- សិស្សដទៃទៀតយកសៀវភៅកិច្ចការផ្ទះបង្ហាញគ្រូ។",
+        "studentActivityEn": "- Volunteer students read words clearly on the board.\n- Classmates open notebooks for teacher review.",
+        "keyContentKm": "ការប្រកបពាក្យ ថែទាំ កោតសរសើរ",
+        "keyContentEn": "Word spelling reinforcement and homework evaluation"
+      },
+      {
+        "stepNumber": 3,
+        "stepNameKm": "ជំហានទី៣៖ មេរៀនថ្មី (២០-២៥ នាទី)",
+        "stepNameEn": "Step 3: New Lesson Presentation & Guided Practice (20-25 min)",
+        "durationMinutes": 22,
+        "teacherActivityKm": "- បង្ហាញបណ្ណរូបភាព \"ឱសថ\" និងសួរ៖ តើនេះជារូបអ្វី?\n- សរសេរស្រៈ \"ឰ ឱ ឳ\" លើក្តារខៀន និងបញ្ចេញសំឡេងគំរូ ៣ ដង\n- ណែនាំសិស្សអានរួមគ្នា អានជាក្រុម និងអានជាបុគ្គល\n- ណែនាំការគូសវណ្ឌវង្កលើខ្យល់ និងការសរសេរលើក្តារឆ្នួន។",
+        "teacherActivityEn": "- Display picture card of medicine ('ឱសថ') and ask inquiry questions.\n- Write vowels 'ឰ ឱ ឳ' on the blackboard and demonstrate accurate phonetics 3 times.\n- Guide whole-class choral reading, group reading, and individual reading.\n- Demonstrate air tracing and guide slate writing with proper penmanship.",
+        "studentActivityKm": "- សង្កេតរូបភាព ឆ្លើយសំណួរគ្រូ\n- ស្តាប់គ្រូបញ្ចេញសូរ និងបញ្ចេញសូរតាមគ្រូ\n- អានជាជួរ ជាតុ និងស្ម័គ្រចិត្តអានទោល\n- សរសេរស្រៈទាំងបីលើក្តារឆ្នួន រួចលើកបង្ហាញគ្រូព្រមៗគ្នា។",
+        "studentActivityEn": "- Observe images and answer introductory questions.\n- Listen attentively and mirror phonetic pronunciations.\n- Practice row by row, pair by pair, and individually.\n- Write the vowels on slates and raise them for teacher feedback.",
+        "keyContentKm": "ស្រៈ ឰ ឱ ឳ | វិធីផ្សំ៖ ក + ឱ = កោ, ច + ឳ = ចៅ",
+        "keyContentEn": "Vowels ឰ ឱ ឳ | Blending: K + Ao = Kao, Ch + Ov = Chov"
+      },
+      {
+        "stepNumber": 4,
+        "stepNameKm": "ជំហានទី៤៖ ពង្រឹងចំណេះដឹង (៥-៧ នាទី)",
+        "stepNameEn": "Step 4: Knowledge Consolidation & Assessment (5-7 min)",
+        "durationMinutes": 7,
+        "teacherActivityKm": "- លេងល្បែងអប់រំ \"រកគូស្រៈ\"៖ ហៅសិស្ស ៤ នាក់ឡើងបិទបណ្ណស្រៈឱ្យត្រូវនឹងពាក្យដែលគ្រូអាន\n- វាយតម្លៃសិស្សដែលនៅខ្សោយដើម្បីជួយបន្ថែម។",
+        "teacherActivityEn": "- Facilitate educational game 'Find the Vowel Match': 4 students attach correct vowel cards to spoken words.\n- Conduct quick formative check of students needing additional guidance.",
+        "studentActivityKm": "- សិស្សចូលរួមលេងល្បែងដោយភាពក្លៀវក្លា\n- សិស្សក្នុងថ្នាក់ទះដៃលើកទឹកចិត្តមិត្តភក្តិ។",
+        "studentActivityEn": "- Students actively participate in matching activity.\n- Class observes and claps in encouragement.",
+        "keyContentKm": "វាយតម្លៃសមត្ថភាពអាន និងសរសេរពាក្យជាក់ស្តែង",
+        "keyContentEn": "Formative evaluation of reading and slate writing"
+      },
+      {
+        "stepNumber": 5,
+        "stepNameKm": "ជំហានទី៥៖ បណ្តាំផ្ញើ និងកិច្ចការផ្ទះ (៣-៥ នាទី)",
+        "stepNameEn": "Step 5: Homework & Directives (3-5 min)",
+        "durationMinutes": 4,
+        "teacherActivityKm": "- ដាក់កិច្ចការផ្ទះ៖ សរសេរស្រៈ ឰ ឱ ឳ ម្នាក់ ៣ ជួរក្នុងសៀវភៅ និងហាត់អានទំព័រ ២៨\n- ផ្តាំផ្ញើសិស្សឱ្យជួយការងារផ្ទះឪពុកម្តាយ និងលាងដៃមុនហូបបាយ\n- អនុញ្ញាតឱ្យសិស្សរៀបចំទុកដាក់សម្ភារ។",
+        "teacherActivityEn": "- Assign homework: Write 3 lines of each vowel in exercise books and practice reading page 28.\n- Direct students on good hygiene (washing hands) and respecting parents at home.\n- Instruct orderly dismissal.",
+        "studentActivityKm": "- កត់ត្រាកិច្ចការផ្ទះចូលក្នុងសៀវភៅកំណត់ហេតុ\n- ក្រោកឈរ លើកដៃសំពះគោរពលាអ្នកគ្រូ។",
+        "studentActivityEn": "- Record homework assignments neatly.\n- Stand, perform respectful traditional Sompas salute to teacher.",
+        "keyContentKm": "កិច្ចការផ្ទះទំព័រ ២៨ អនាម័យ និងសីលធម៌ល្អ",
+        "keyContentEn": "Homework page 28, hygiene habits, respectful manners"
+      }
+    ],
+    "status": "approved",
+    "feedbacks": [
+      {
+        "id": "fb-01",
+        "reviewerName": "លោកនាយក សុខា ចេត",
+        "reviewerRole": "principal",
+        "reviewerAvatar": "/src/assets/images/avatar_principal_sokha_1794125376568.jpg",
+        "date": "2026-11-09",
+        "status": "approved",
+        "overallRating": 5,
+        "curriculumAlignment": 5,
+        "pedagogicalMethod": 5,
+        "timeAllocation": 4,
+        "commentsKm": "កិច្ចតែងការនេះរៀបចំបានល្អប្រសើរណាស់ ស្របតាមស្តង់ដារក្រសួងអប់រំ យុវជន និងកីឡា។ ការបែងចែកពេលវេលា ៥ ជំហានច្បាស់លាស់ និងមានល្បែងពង្រឹងចំណេះដឹងទាក់ទាញសិស្ស។ បានឯកភាពអនុវត្តក្នុងថ្នាក់!",
+        "commentsEn": "Excellent lesson plan fully aligned with MoEYS primary standards. The 5-step time allocation is balanced and the consolidation game actively engages early learners. Approved for classroom implementation!",
+        "approvedDate": "2026-11-09"
+      }
+    ],
+    "isShared": true,
+    "sharedLikes": 42,
+    "sharedDownloads": 89,
+    "tags": ["ថ្នាក់ទី២", "ភាសាខ្មែរ", "ស្រៈនិស្ស័យ", "កិច្ចតែងការគំរូ"],
+    "lastModified": "2026-11-09T08:30:00Z",
+    "syncStatus": "synced"
+  }
+]
